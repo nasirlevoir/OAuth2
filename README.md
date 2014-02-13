@@ -1,4 +1,4 @@
 OAuth2
 ======
 
-Sample OAuth2 codes
+Sample OAuth2 code
